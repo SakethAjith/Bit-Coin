@@ -1,0 +1,8 @@
+.root{
+	-fx-background-image:url("bitc1.jpg");
+	-fx-background-image:cover;
+	-fx-background-repeat:no-repeat;
+}
+.button{
+	-fx-text-color:red;
+}
